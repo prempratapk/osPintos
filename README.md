@@ -1,20 +1,4 @@
-**Project - 1**
-
-**CSE 421/521 – Operating Systems**
-
-**Due: October 21**^**st**^ **@11:59pm, 2018**
-
-\
-
-\
-
-1.  
-
-\
-
-Before beginning your work, please read the following carefully:
-
--   -   -   -   
+PINTOS
 
 **2.**     **Task: Implement the Threading Component of Pintos OS**
 
