@@ -1,6 +1,6 @@
 PINTOS
 
-**2.**     **Task: Implement the Threading Component of Pintos OS**
+**1.**     **Task: Implement the Threading Component of Pintos OS**
 
 In this project, your team is asked to perform **“kernel” level
 programming of the “Threading” component in the Pintos operation
@@ -24,7 +24,7 @@ Synchronization](http://www.cse.buffalo.edu/faculty/tkosar/cse421-521_fall2013/p
 and [Appendix B (4.4BSD
 Scheduler)](http://www.cse.buffalo.edu/faculty/tkosar/cse421-521_fall2013/projects/project-2/WWW/pintos_7.html#SEC131).
 
-**3.**     **Setting Up The Pintos Environment**
+**2.**     **Setting Up The Pintos Environment**
 
 We have prepared a VM image of Pintos which will make the
 installation/configuration process much simpler for you. This will
@@ -60,7 +60,7 @@ Introduction](http://www.cse.buffalo.edu/faculty/tkosar/cse421-521_fall2013/proj
 
 \
 
-**4. Implementation of the Project**
+**3. Implementation of the Project**
 
 \
 
